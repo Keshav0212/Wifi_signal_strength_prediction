@@ -1,8 +1,8 @@
 # Wifi_signal_strength_prediction
 This project aims in determining the wifif signal strength and mobile phone localization
 # location_WIFI_Signal_Strength_prediction
-**Recommended Use:** Classification Models<br/>
-**Domain:** Mobile/Location<br/> 
+**Recommended Use:** Classification Models and prediction model<br/>
+**Domain:** Mobile/Location and wifi signal strength<br/> 
 
 ## Wireless Indoor Localization Data Set 
 
